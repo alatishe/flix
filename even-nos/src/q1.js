@@ -15,8 +15,6 @@ function App() {
     return sum;
   }
 
-  //console.log(sumEvens(nums));
-
   return (
     <div className="App">
       <header className="App-header">
